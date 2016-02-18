@@ -1,5 +1,4 @@
-# umbc433proj1
-Umbc 433 Proj 1
+# Umbc 433 Proj 1
 
 | Category | Grade |
 | --- | --- |
@@ -9,6 +8,6 @@ Umbc 433 Proj 1
 | Peer Effort | 20% |
 | Documentation(video) | 20% |
 
-Req: HTML, CSS, PHP, MYSQL
+## Req: HTML, CSS, PHP, MYSQL
 
-DUE: APRL 14
+# DUE: APRL 14
