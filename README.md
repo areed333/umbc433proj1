@@ -18,7 +18,7 @@
 # Questions: 
 
 # Ideas:
-###Yadi: 
+##Yadi: 
 ####interactive network visuallization 
 
 
