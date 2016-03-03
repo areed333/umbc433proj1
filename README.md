@@ -12,6 +12,8 @@
 
 # DUE: APRL 14
 
-# Questions: 
-
+# March 3 Planning: 
+- Based on [this](http://codepen.io/katydecorah/pen/HEgwl)
+- change to look like bubble
+- use javascript to show element once class is [clicked](http://www.w3schools.com/jsref/prop_style_visibility.asp)
 
