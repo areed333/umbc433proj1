@@ -19,9 +19,9 @@
 - 
 
 # Time Free:
-## Elisha: M/W 4PM+ , T/T: NOT FREE , F/S/SU: ALL DAY
-## Yadikar: M/W NOT FREE , T/T: 12-7PM , F/S/SU: ALL DAY MOSTLY
-## Aaron: M: ADVANCE NOTICE  , W: 3-8PM , T/TH: NOT REALLY, WEEKENDS: MOSTLY
+#### Elisha: M/W 4PM+ , T/T: NOT FREE , F/S/SU: ALL DAY
+#### Yadikar: M/W NOT FREE , T/T: 12-7PM , F/S/SU: ALL DAY MOSTLY
+#### Aaron: M: ADVANCE NOTICE  , W: 3-8PM , T/TH: NOT REALLY, WEEKENDS: MOSTLY
 
 # Meeting: 
 - Each Weekend: 
