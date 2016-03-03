@@ -12,13 +12,6 @@
 
 # DUE: APRL 14
 
-## FINISH DATE: March 31
-## Front End Due Date: March 17
-
 # Questions: 
-
-# Ideas:
-##Yadi: 
-####interactive network visuallization 
 
 
